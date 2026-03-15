@@ -232,14 +232,14 @@ df.groupBy("category").agg(sum("sales"))
 The processed Gold Layer datasets were used to build interactive dashboards
 showing delivery performance, payment trends, and customer satisfaction metrics.
 
-### Customer Experience Dashboard
-![Customer Experience Dashboard](images/dashboard1.png)
+### Tableau-Dashboard
+![E-Commerce Tableau Dashboard](Dashboards/Tableau-dashboard/tableau.png)
 
-### Payment & Revenue Analytics Dashboard
-![Payment Dashboard](images/dashboard2.png)
+### PowerBi-Dashboard
+![E-Commerce PowerBi Dashboard](Dashboards/PowerBi-Dashboard/powerbi.png)
 
-### Payment Method & Delivery Analysis
-![Payment Method Dashboard](images/dashboard3.png)
+### Excel-Dashboard
+![E-Commerce Excel Dashboard](Dashboards/Excel-dashboard/excel.png)
 
 ## Future Improvements
 
